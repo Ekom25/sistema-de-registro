@@ -6,5 +6,5 @@ Para ejecutar el sistema, debes poner:
 
 ```npm install react```
 
-Sistema de registro 2.1
+No se registra sistema de registro 2
 
